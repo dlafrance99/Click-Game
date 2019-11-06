@@ -1,0 +1,86 @@
+.cardWrapper {
+  width: 100vw;
+  margin-left: 5vw;
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 150px;
+  width: 20vw;
+  margin: 1rem;
+  margin-right: 2vw;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+  float: left;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.card > .img-container > img {
+  height: 100%;
+  object-fit: contain;
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+
+.card > .remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.card > .remove:hover {
+  color: #d50000;
+}
+
+
+.header {
+  height: 100px;
+  width: 100vw;
+  background-color: maroon;
+  color: white;
+  padding: 1vw;
+  position: fixed;
+  z-index: 1;
+}
+
+.description{
+  height: 300px;
+  width: 100vw;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  padding-top: 150px;
+  
+}
+
+.float {
+  float: left;
+  margin-left: 7vw;
+  margin-top: 20px;
+}
+
+body{
+  background-color: rgba(0, 0, 0, 0.747);
+}

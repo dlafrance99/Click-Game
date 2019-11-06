@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Tyrion Lannister",
+        "image": "https://assets1.ignimgs.com/2017/06/28/1-tyrion-lannister-1498665318499_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 2,
+        "name": "Daenerys Targaryen",
+        "image": "https://assets1.ignimgs.com/2017/06/28/2-daenerys-targaryen-1498665318502_640w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 3,
+        "name": "Jon Snow",
+        "image": "https://assets1.ignimgs.com/2017/06/28/3-jon-snow-1498665318503_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 4,
+        "name": "Cersei Lannister",
+        "image": "https://assets1.ignimgs.com/2017/06/28/4-cersei-lannister-1498665318504_640w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 5,
+        "name": "Arya Stark",
+        "image": "https://assets1.ignimgs.com/2017/06/28/5-arya-stark-1498665318505_640w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 6,
+        "name": "Jaime Lannister",
+        "image": "https://assets1.ignimgs.com/2017/06/28/6-jaime-lannister-1498665318506_640w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 7,
+        "name": "Eddard Stark",
+        "image": "https://assets1.ignimgs.com/2017/06/28/7-eddard-stark-1498665318507_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 8,
+        "name": "Tywin Lannister",
+        "image": "https://assets1.ignimgs.com/2017/06/28/8-tywin-lannister-1498665318508_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 9,
+        "name": "Varys 'The Spider'",
+        "image": "https://assets1.ignimgs.com/2017/06/28/9-varys-1498665318509_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 10,
+        "name": "Catelyn Stark",
+        "image": "https://assets1.ignimgs.com/2017/06/28/10-catelyn-stark-1498665318510_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 11,
+        "name": "Sansa Stark",
+        "image": "https://assets1.ignimgs.com/2017/06/28/11-sansa-stark-1498665318511_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 12,
+        "name": "Davos Seaworth",
+        "image": "https://assets1.ignimgs.com/2017/06/28/12-davos-seaworth-1498665318513_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 13,
+        "name": "Brienne of Tarth",
+        "image": "https://assets1.ignimgs.com/2017/06/28/13-brienne-of-tarth-1498665318514_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 14,
+        "name": "Petyr 'Littlefinger' Baelish",
+        "image": "https://assets1.ignimgs.com/2017/06/28/14-petyr-baelish-1498665318515_640w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 15,
+        "name": "Joffrey Baratheon",
+        "image": "https://assets1.ignimgs.com/2017/06/28/15-joffrey-baratheon-1498665318515_1024w.jpg",
+        "chosen": 0
+    },
+    {
+        "id": 16,
+        "name": "Bran Stark",
+        "image": "https://assets1.ignimgs.com/2017/06/28/16-bran-stark-1498665318517_640w.jpg",
+        "chosen": 0
+    }
+]
